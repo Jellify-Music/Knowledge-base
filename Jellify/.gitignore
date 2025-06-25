@@ -1,9 +1,0 @@
-# Obsidian settings
-.obsidian/
-
-# Obsidian trash
-.trash/
-
-# System files
-.DS_Store
-Thumbs.db
