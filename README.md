@@ -1,3 +1,7 @@
+
+## What is this repo for?
+This repo was made as a place to document anything and everything that is related to Jellify and its operations. Contribution guides, resources/links, FAQs, common issues and how to troubleshoot, common tools used for development, and more. We will try to keep it tidy as it gets larger.
+
 ## Setting up for contributing to this repo
 1. Create new vault in Obsidian
 2. Download Git community plugin and enable it
