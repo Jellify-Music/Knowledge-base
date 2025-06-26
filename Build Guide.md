@@ -310,9 +310,7 @@ These commands use scripts in the `scripts/` directory to create and deploy app 
 - [Tamagui Documentation](https://tamagui.dev/docs/intro/introduction)
 
 ### Community
-- [Jellify Discord Server](https://discord.gg/yf8fBatktn)
-- [GitHub Issues](https://github.com/Jellify-Music/App/issues)
-- [GitHub Discussions](https://github.com/Jellify-Music/App/discussions)
+- [Jellify Discord Server](https://discord.gg/jellify)
 
 ### Development Tools
 - [React Native CLI](https://github.com/react-native-community/cli)
