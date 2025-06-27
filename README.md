@@ -3,6 +3,8 @@
 This repo was made as a place to document anything and everything that is related to Jellify and its operations. Contribution guides, resources/links, FAQs, common issues and how to troubleshoot, common tools used for development, and more. We will try to keep it tidy as it gets larger.
 
 ## Setting up for contributing to this repo
+
+(This is assuming the user already has [Git](https://git-scm.com/) and [Obsidian](https://obsidian.md/) installed on their computer)
 1. Create new vault in Obsidian
 2. Download Git community plugin and enable it
 3. Disable Obsidian Sync (just in case)
@@ -13,5 +15,3 @@ This repo was made as a place to document anything and everything that is relate
 7. Enter the link to the repository
 8. Enter the folder name from step 4 (exactly as it is typed)
 9. Hit enter on the last question to go with the default
-
-This is assuming the user already has Git installed on their computer. 
