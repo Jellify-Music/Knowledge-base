@@ -4,6 +4,7 @@ This repo was made as a place to document anything and everything that is relate
 
 [Build Guide](https://github.com/Jellify-Music/Knowledge-base/blob/main/Build%20Guide.md)
 
+[Resources](https://github.com/Jellify-Music/Knowledge-base/blob/main/Resources.md)
 ## Setting up for contributing to this repo
 
 (This is assuming the user already has [Git](https://git-scm.com/) and [Obsidian](https://obsidian.md/) installed on their computer)
