@@ -3,9 +3,9 @@
 This repo was made as a place to document anything and everything that is related to Jellify and its operations. Contribution guides, resources/links, FAQs, common issues and how to troubleshoot, common tools used for development, and more. We will try to keep it tidy as it gets larger.
 
 [Build Guide](https://github.com/Jellify-Music/Knowledge-base/blob/main/Build%20Guide.md)
-
 [Resources](https://github.com/Jellify-Music/Knowledge-base/blob/main/Resources.md)
-## Setting up for contributing to this repo
+[]()
+## Setting up for contributing to the wiki repo
 
 (This is assuming the user already has [Git](https://git-scm.com/) and [Obsidian](https://obsidian.md/) installed on their computer)
 1. Create new vault in Obsidian
