@@ -2,7 +2,7 @@
 ## What is this repo for?
 This repo was made as a place to document anything and everything that is related to Jellify and its operations. Contribution guides, resources/links, FAQs, common issues and how to troubleshoot, common tools used for development, and more. We will try to keep it tidy as it gets larger.
 
-[[Build Guide]]
+[Build Guide](https://github.com/Jellify-Music/Knowledge-base/blob/main/Build%20Guide.md)
 
 ## Setting up for contributing to this repo
 
