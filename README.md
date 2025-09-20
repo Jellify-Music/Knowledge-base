@@ -8,7 +8,7 @@ This repo was made as a place to document anything and everything that is relate
 1. Create new vault in Obsidian
 2. Download Git community plugin and enable it
 3. Disable Obsidian Sync (just in case)
-4. Create a folder (remember the name exactly as typed)
+4. Create a folder in the new Vault (remember the name exactly as typed)
 	- This is the only folder that will be synced with the repository
 5. Open command palette (cmd/ctrl + P)
 6. Type "clone" and pick "Git: Clone an existing remote repo"
